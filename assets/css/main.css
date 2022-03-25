@@ -3314,3 +3314,9 @@ input, select, textarea {
 			}
 
 	}
+
+
+.tech-used {
+	font-style: italic;
+	font-size: 0.7em;
+}
