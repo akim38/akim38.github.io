@@ -3318,5 +3318,9 @@ input, select, textarea {
 
 .tech-used {
 	font-style: italic;
-	font-size: 0.7em;
+	font-size: 0.85em;
+}
+
+.project-links > a {
+	margin-right: 30px;
 }
